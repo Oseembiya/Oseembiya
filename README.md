@@ -8,19 +8,5 @@ I’m Osee Mbiya, Welcome to my GitHub account, Where I’ll be showcasing the m
 
 
 
-Languages and Tools
+Languages and Tools: 
 
-1. Front end:
-- https://www.w3schools.com/html/default.asp
-- https://www.w3schools.com/css/default.asp
-- https://www.w3schools.com/js/default.asp
-
-2. Back end:
-   - https://www.w3schools.com/nodejs/default.asp
-   - https://www.w3schools.com/js/default.asp
-   - https://www.w3schools.com/mongodb
-
-
-3 Tools: 
-- https://www.postman.com
-- 

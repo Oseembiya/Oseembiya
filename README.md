@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Oseembiya 
+                                                                                           👋 Hi I’m Osee Mbiya
+ ________________________________________________________________________________________________________________________________________________________________________________________________________________
 - 👀 I’m Interested in learning new things.
 - 🌱 I’m currently learning Javascript frameworks React. 
 - 💞️ I’m looking to collaborate on ...

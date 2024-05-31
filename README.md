@@ -3,7 +3,7 @@
  
 - 👀 I’m Interested in learning new things, especially programming.
 - 🌱 I’m currently learning JavaScript frameworks React. 
-- 💞️ I want to collaborate on a big project to express thoughts & ideas.
+- 💞️ I want to collaborate on a big project to enhance my skills & ideas.
 - 📫 How to reach me: ozeembiya@gmail.com
 
 

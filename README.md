@@ -11,7 +11,7 @@
 Languages-frameworks & Tools Learned: <div align="center"> 
 
  <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=html,CSS,javascript,nodejs,express,mongodb,java,cpp,bash"/><br/>
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,java,cpp,bash"/><br/>
  <img src="htpps://skillicons.dev/icons?i=bootstrap,react,postman,devOpp"/>
  </a>
 </div>

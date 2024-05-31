@@ -8,11 +8,11 @@
 
 
 
-Languages and Tools Learned: <div align="center"> 
+Languages-frameworks & Tools Learned: <div align="center"> 
 
  <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,express,mongodb,java,c++,bash"/><br/>
- <img src="htpps://skillicons.dev/icons?i=bootstrap,react"/>
+ <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,express,mongodb,java,,bash"/><br/>
+ <img src="htpps://skillicons.dev/icons?i=bootstrap,react,postman,devOpp"/>
  </a>
 </div>
 

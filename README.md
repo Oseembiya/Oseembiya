@@ -8,9 +8,10 @@
 
 
 
-Languages and Tools Learned: <div> 
-<ul> 
- <li> <a href="">HTML</a></li>
-</ul>
+Languages and Tools Learned: <div align="center"> 
+
+ <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,MongoDB,c++,java"/>
+ </a>
 </div>
 

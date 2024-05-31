@@ -9,8 +9,8 @@
 
 
 Languages and Tools Learned: <div> 
-<ol> 
+<ul> 
  <li> <a href="">HTML</a></li>
-</ol>
+</ul>
 </div>
 

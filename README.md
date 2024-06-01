@@ -12,7 +12,7 @@ Languages-frameworks & Tools Learned: <div align="center">
 
  <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,java,cpp,bash"/><br>
- <img src="https://skillicons.dev/icons?i=bootstrap,react,postman,git,sql,azure,vscode"/>
+ <img src="https://skillicons.dev/icons?i=bootstrap,react,postman,git,figma,azure,vscode"/>
  </a>
 </div>
 

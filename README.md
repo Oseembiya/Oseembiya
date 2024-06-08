@@ -1,4 +1,4 @@
-# HI, there 👋I’m Osee Mbiya, Thanks for checking out my GitHub page 
+# Hi, there 👋I’m Osee Mbiya, Thanks for checking out my GitHub page 
 <H3> I am passionate about computer science, on this page, I’ll be showcasing the most recent stuff I am working on.</H3> 
  
 - 👀 I’m Interested in learning new things, especially programming.

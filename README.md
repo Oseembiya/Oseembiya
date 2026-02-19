@@ -2,7 +2,7 @@
 <H3> I am passionate about computer science, on this page, I’ll be showcasing the most recent stuff I am working on.</H3> 
  
 - 👀 I’m Interested in learning new things, especially programming.
-- 🌱 I’m currently learning JavaScript frameworks React. 
+- 🌱 I’m currently building Auto-Trading-AI. 
 - 💞️ I want to collaborate on a big project to enhance my skills & ideas.
 - 📫 How to reach me: ozeembiya@gmail.com
 

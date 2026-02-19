@@ -1,5 +1,5 @@
-# Hi, There 👋I’m Osee Mbiya, Thanks for checking out my GitHub page 
-<H3> I am passionate about computer science, on this page, I’ll be showcasing the most recent stuff I am working on.</H3> 
+# Hi, there 👋I’m Osee Mbiya. Thanks for checking out my page 
+<H4> I am passionate about computer science. On this page, I’ll be showcasing the most recent stuff I am working on.</H4> 
  
 - 👀 I’m Interested in learning new things, especially programming.
 - 🌱 I’m currently building Auto-Trading-AI. 
